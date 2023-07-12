@@ -1,5 +1,4 @@
 # zuyuan
-novelaihuihua
 华科组原
 
 计算机数据表示实验(HUST)
